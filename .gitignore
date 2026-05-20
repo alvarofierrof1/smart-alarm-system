@@ -1,0 +1,10 @@
+*.class
+*.log
+
+.vscode/
+.idea/
+
+out/
+bin/
+
+target/
