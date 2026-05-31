@@ -28,6 +28,8 @@ smart-alarm-system/
 ├── tests/
 └── README.md
 
+```
+
 ```mermaid
 classDiagram
     class Alarm {
