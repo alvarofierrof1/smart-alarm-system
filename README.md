@@ -167,15 +167,4 @@ graph LR
 
 ---
 
-## 📈 9. Tabla de Autoevaluación
 
-| Criterio | Peso | Estado de Cumplimiento | Auto-Calificación |
-| :--- | :---: | :--- | :---: |
-| Diseño orientado a objetos | 25% | Completado. Encapsulación rígida con atributos privados y control mediante tipos nativos `java.time`. | 25% |
-| Calidad del código | 20% | Completado. Lógica modular limpia, control de rangos coherente en setters de sonido y legibilidad semántica. | 20% |
-| Uso correcto de Git/GitHub | 15% | Completado. Historial local y remoto estructurado según la metodología GitFlow con Conventional Commits. | 15% |
-| Diagramas UML | 15% | Completado. Modelos de Diagramas de Clases y Casos de Uso embebidos de manera nativa mediante sintaxis Mermaid. | 15% |
-| Especificación de casos de uso | 10% | Completado. Descripción minuciosa siguiendo la plantilla reglamentaria con flujos principales y alternativos. | 10% |
-| Documentación README | 10% | Completado. Estructura organizada con descripción del proyecto, objetivos y mapa de la arquitectura física. | 10% |
-| Reflexión sobre IA | 5% | Completado. Detalle de prompts, errores corregidos y lecciones de arquitectura. | 5% |
-| **TOTAL** | **100%** | | **100%** |
