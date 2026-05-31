@@ -113,7 +113,7 @@ graph LR
 
 ---
 
-## 📝 7. Especificación de Casos de Uso
+## 📝  Especificación de Casos de Uso
 
 ### Caso de Uso 1: Configurar Nueva Alarma con Detección de Conflictos
 * **Nombre:** Configurar Nueva Alarma.
@@ -151,7 +151,7 @@ graph LR
 
 ---
 
-## 🧠 8. Reflexiones Técnicas y de IA
+## 🧠  Reflexiones Técnicas y de IA
 
 ### Reflexión Técnica de Diseño
 * **Colecciones y Calendario:** La selección explícita del uso de la interfaz `Set<DayOfWeek>` para albergar los días de repetición semanal asegura por diseño de código que el sistema impida estados duplicados incoherentes (por ejemplo, registrar dos veces el "Lunes" para una misma alarma), blindando la consistencia interna.
